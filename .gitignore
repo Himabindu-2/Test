@@ -15,6 +15,7 @@ deploy-options.json
 coverage/
 ReleaseReady/
 manifest/
+
 # Logs
 logs
 *.log
