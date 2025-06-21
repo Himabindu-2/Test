@@ -31,12 +31,9 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>MyFamily_PS</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
         <members>Admin</members>
         <members>B2B Reordering Portal Buyer Profile</members>
+        <members>Custom Standard User</members>
         <name>Profile</name>
     </types>
     <types>
